@@ -1,4 +1,4 @@
-[gd_scene load_steps=45 format=3 uid="uid://cl06ioip5344j"]
+[gd_scene load_steps=45 format=3 uid="uid://0xh1c2x2cp4g"]
 
 [ext_resource type="Texture2D" uid="uid://cf5vr3rdkcdr0" path="res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Character/Idle/Idle-Sheet.png" id="1_vhnyb"]
 [ext_resource type="Script" path="res://Charactes/hero.gd" id="1_xe40d"]
@@ -296,17 +296,23 @@ animations = [{
 radius = 8.0
 height = 44.0
 
-[node name="Hero" type="CharacterBody2D"]
+[node name="Hero2" type="CharacterBody2D"]
 script = ExtResource("1_xe40d")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 position = Vector2(-32, -40)
 sprite_frames = SubResource("SpriteFrames_f0cbw")
-animation = &"jump_start"
+animation = &"idle"
 centered = false
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(0, 2)
 shape = SubResource("CapsuleShape2D_425bj")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+
+[node name="AnimationTree" type="AnimationTree" parent="."]
 
 [connection signal="animation_finished" from="AnimatedSprite2D" to="." method="_on_animated_sprite_2d_animation_finished"]
