@@ -2,7 +2,7 @@
 
 [ext_resource type="Texture2D" uid="uid://cnb6vef35n3ad" path="res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Assets/Tiles.png" id="1_nea8f"]
 [ext_resource type="Texture2D" uid="uid://bnda4a45fu1po" path="res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Assets/Tree-Assets.png" id="2_l6tmj"]
-[ext_resource type="PackedScene" uid="uid://0xh1c2x2cp4g" path="res://Charactes/hero2.tscn" id="3_onnid"]
+[ext_resource type="PackedScene" uid="uid://0xh1c2x2cp4g" path="res://Characters/hero2.tscn" id="3_onnid"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_s1p77"]
 texture = ExtResource("1_nea8f")

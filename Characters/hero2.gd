@@ -1,3 +1,4 @@
+"""
 extends CharacterBody2D
 
 
@@ -82,3 +83,4 @@ func land():
 func _on_animated_sprite_2d_animation_finished():
 	if(["jump_end", "jump_start", "jump_double"].has(animated_sprite.animation)):
 		animation_locked = false
+"""
