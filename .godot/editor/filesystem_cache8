@@ -1,0 +1,85 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1697012875
+icon.svg::CompressedTexture2D::4081427225307197133::1696831781::1696831786::1::::<><>::
+::res://Assests/::1696832183
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/::1696832227
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/::1696832184
+Credit.txt::TextFile::-1::1680099968::0::1::::<><>::
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Assets/::1696832228
+Buildings.png::CompressedTexture2D::997913607088430090::1664872552::1696832228::1::::<><>::
+Hive.png::CompressedTexture2D::7632717419181089436::1664872412::1696832228::1::::<><>::
+Interior-01.png::CompressedTexture2D::595940038258755958::1667208930::1696832228::1::::<><>::
+Props-Rocks.png::CompressedTexture2D::1300457191772675777::1664872204::1696832228::1::::<><>::
+Tiles.png::CompressedTexture2D::5689280660012694011::1667208974::1696832228::1::::<><>::
+Tree-Assets.png::CompressedTexture2D::3305120618442832484::1667208990::1696832228::1::::<><>::
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Background/::1696832228
+Background.png::CompressedTexture2D::5931952589145511003::1667209646::1696832228::1::::<><>::
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Character/::1696832184
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Character/Attack-01/::1696832228
+Attack-01-Sheet.png::CompressedTexture2D::6341609524455420751::1657194656::1696832228::1::::<><>::
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Character/Dead/::1696832228
+Dead-Sheet.png::CompressedTexture2D::2488385203063785259::1657197608::1696832228::1::::<><>::
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Character/Idle/::1696832228
+Idle-Sheet.png::CompressedTexture2D::5187023830607867703::1657186076::1696832228::1::::<><>::
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Character/Jumlp-All/::1696832228
+Jump-All-Sheet.png::CompressedTexture2D::5357150941567220519::1657197636::1696832228::1::::<><>::
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Character/Jump/::1696832184
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Character/Jump-End/::1696832228
+Jump-End-Sheet.png::CompressedTexture2D::4218402246661831272::1657197770::1696832228::1::::<><>::
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Character/Jump-Start/::1696832228
+Jump-Start-Sheet.png::CompressedTexture2D::3393254371340760339::1657197716::1696832228::1::::<><>::
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Character/Run/::1696832228
+Run-Sheet.png::CompressedTexture2D::3894049426926032671::1657186042::1696832228::1::::<><>::
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/HUD/::1696832228
+Base-01.png::CompressedTexture2D::1250356609254411910::1656562566::1696832228::1::::<><>::
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Mob/::1696832184
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Mob/Boar/::1696832184
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Mob/Boar/Hit-Vanish/::1696832228
+Hit-Sheet-Black.png::CompressedTexture2D::6193030836201351527::1663996224::1696832228::1::::<><>::
+Hit-Sheet-White.png::CompressedTexture2D::4665642629827363694::1663996254::1696832228::1::::<><>::
+Hit-Sheet.png::CompressedTexture2D::8529473215053149067::1656651542::1696832228::1::::<><>::
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Mob/Boar/Idle/::1696832228
+Idle-Sheet-export-Back.png::CompressedTexture2D::8965414229203550015::1663996136::1696832228::1::::<><>::
+Idle-Sheet-White.png::CompressedTexture2D::2625431362401288147::1663996174::1696832228::1::::<><>::
+Idle-Sheet.png::CompressedTexture2D::4292870332630668655::1656651570::1696832228::1::::<><>::
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Mob/Boar/Run/::1696832228
+Run-Sheet-Black.png::CompressedTexture2D::1785095167410539697::1663995952::1696832228::1::::<><>::
+Run-Sheet-White.png::CompressedTexture2D::7142591535767447481::1663996004::1696832228::1::::<><>::
+Run-Sheet.png::CompressedTexture2D::4178098077550704412::1656651590::1696832228::1::::<><>::
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Mob/Boar/Walk/::1696832228
+Walk-Base-Sheet-White.png::CompressedTexture2D::8151296800094190091::1663996092::1696832228::1::::<><>::
+Walk-Base-Sheet.png::CompressedTexture2D::3987109924913138958::1656651616::1696832228::1::::<><>::
+Walk-Base-SheetBlack.png::CompressedTexture2D::3182201092353896244::1663996046::1696832228::1::::<><>::
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Mob/Small Bee/::1696832184
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Mob/Small Bee/Attack/::1696832228
+Attack-Sheet.png::CompressedTexture2D::4354121971477793947::1664526146::1696832228::1::::<><>::
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Mob/Small Bee/Fly/::1696832228
+Fly-Sheet.png::CompressedTexture2D::4767564822387117843::1664526162::1696832228::1::::<><>::
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Mob/Small Bee/Hit/::1696832228
+Hit-Sheet.png::CompressedTexture2D::5452094508903461042::1664526182::1696832228::1::::<><>::
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Mob/Snail/::1696832228
+all.png::CompressedTexture2D::8054876573860061089::1635484046::1696832228::1::::<><>::
+Dead-Sheet.png::CompressedTexture2D::6404296358114744745::1635484046::1696832228::1::::<><>::
+Hide-Sheet.png::CompressedTexture2D::5014819080677533809::1635484046::1696832228::1::::<><>::
+walk-Sheet.png::CompressedTexture2D::8229153007894133143::1635484046::1696832228::1::::<><>::
+::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Trees/::1696832228
+Background.png::CompressedTexture2D::6370310305224492402::1664872680::1696832228::1::::<><>::
+Dark-Tree.png::CompressedTexture2D::7657799648740539260::1657202636::1696832228::1::::<><>::
+Golden-Tree.png::CompressedTexture2D::6878549809411101730::1656997518::1696832228::1::::<><>::
+Green-Tree.png::CompressedTexture2D::725885093742723659::1656997032::1696832228::1::::<><>::
+Red-Tree.png::CompressedTexture2D::1209529535376390761::1656997532::1696832228::1::::<><>::
+Yellow-Tree.png::CompressedTexture2D::1752902837429214101::1656997164::1696832228::1::::<><>::
+::res://Characters/::1696989488
+AirState.gd::GDScript::-1::1696985370::0::1::::AirState<>State<>::
+Attack.gd::GDScript::-1::1696988381::0::1::::<>State<>::
+ChracterStateMachine.gd::GDScript::-1::1696985370::0::1::::ChracterStateMachine<>Node<>::
+GroundState.gd::GDScript::-1::1696987198::0::1::::GroundState<>State<>::
+hero2.gd::GDScript::-1::1696985370::0::1::::<>RefCounted<>::
+hero2.tscn::PackedScene::1802673376722689276::1696989488::0::1::::<><>::res://Characters/hero.gd<>uid://cf5vr3rdkcdr0::::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Character/Idle/Idle-Sheet.png<>uid://cwl6m881dulgh::::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Character/Attack-01/Attack-01-Sheet.png<>uid://cilbq1jmxocd0::::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Character/Jumlp-All/Jump-All-Sheet.png<>uid://bvqkoppprkbil::::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Character/Run/Run-Sheet.png<>res://Characters/ChracterStateMachine.gd<>res://Characters/GroundState.gd<>res://Characters/AirState.gd<>res://Characters/Attack.gd<>res://Characters/LandingState.gd<>res://Characters/StateDebugLabel.gd
+hero.gd::GDScript::-1::1696988174::0::1::::<>CharacterBody2D<>::
+hero.tscn::PackedScene::5598425352791146103::1696899770::0::1::::<><>::uid://cf5vr3rdkcdr0
+LandingState.gd::GDScript::-1::1696985370::0::1::::<>State<>::
+State.gd::GDScript::-1::1696985370::0::1::::State<>Node<>::
+StateDebugLabel.gd::GDScript::-1::1696922696::0::1::::<>Label<>::
+::res://Levels/::1696989488
+levels.tscn::PackedScene::1003789021642597963::1696989488::0::1::::<><>::uid://cnb6vef35n3ad::::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Assets/Tiles.png<>uid://bnda4a45fu1po::::res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Assets/Tree-Assets.png<>uid://0xh1c2x2cp4g::::res://Characters/hero2.tscn
