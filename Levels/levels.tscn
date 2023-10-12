@@ -1,8 +1,10 @@
-[gd_scene load_steps=7 format=3 uid="uid://okii14klrtcd"]
+[gd_scene load_steps=9 format=3 uid="uid://okii14klrtcd"]
 
 [ext_resource type="Texture2D" uid="uid://cnb6vef35n3ad" path="res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Assets/Tiles.png" id="1_nea8f"]
 [ext_resource type="Texture2D" uid="uid://bnda4a45fu1po" path="res://Assests/SidescrollerQuickstart_Godot4Project_v1 (1)/items/Assets/Tree-Assets.png" id="2_l6tmj"]
 [ext_resource type="PackedScene" uid="uid://0xh1c2x2cp4g" path="res://Characters/hero2.tscn" id="3_onnid"]
+[ext_resource type="PackedScene" uid="uid://6mfgyym5v6m2" path="res://Characters/Enemy/snail.tscn" id="4_sfid5"]
+[ext_resource type="PackedScene" uid="uid://bat2b5cxmtx30" path="res://UI/health_changed_manager.tscn" id="5_rhcah"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_s1p77"]
 texture = ExtResource("1_nea8f")
@@ -2301,3 +2303,8 @@ position = Vector2(347, 374)
 process_callback = 0
 position_smoothing_enabled = true
 drag_horizontal_enabled = true
+
+[node name="Snail" parent="." instance=ExtResource("4_sfid5")]
+position = Vector2(444, 383)
+
+[node name="HealthChangedManager" parent="." instance=ExtResource("5_rhcah")]
