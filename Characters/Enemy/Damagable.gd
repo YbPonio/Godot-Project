@@ -2,8 +2,9 @@ extends Node
 
 class_name Damageable
 
-signal on_hit(node : Node, damage_taken : int)
+signal on_hit(node : Node, damage_taken : int, knockback_direction : Vector2)
 
+@export var dead_animation_name : String = "death"
 @export var health_value : float = 20 :
 	get:
 		return health_value
@@ -12,10 +13,12 @@ signal on_hit(node : Node, damage_taken : int)
 		
 		health_value = value
 
-func hit(damage : int):
+func hit(damage : int, knockback_direction : Vector2):
 	health_value -= damage
 	
-	emit_signal("on_hit", get_parent(), damage)
-	
-	if(health_value <= 0):
-		get_parent().queue_free() 
+	emit_signal("on_hit", get_parent(), damage, knockback_direction)
+
+
+func _on_animation_tree_animation_finished(anim_name):
+	if(anim_name == dead_animation_name):
+		get_parent().queue_free()
